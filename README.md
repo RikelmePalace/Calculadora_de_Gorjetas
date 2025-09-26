@@ -6,7 +6,7 @@
 Uma calculadora de gorjetas simples, elegante e funcional para calcular rapidamente o valor total de uma conta, incluindo uma gorjeta padrão de 10%.
  
 ![Preview da Calculadora de Gorjetas](https://i.imgur.com/URL-DA-SUA-IMAGEM.png)
-*(Dica: Tire um print da sua aplicação em funcionamento e substitua o link acima para exibir uma imagem de preview)*
+
  
 ## 📝 Descrição
  
@@ -34,7 +34,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
  
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://URL-DO-SEU-REPOSITORIO.git](https://URL-DO-SEU-REPOSITORIO.git)
+    git clone https://github.com/RikelmePalace/Calculadora_de_Gorjetas
     ```
 2.  **Abra o arquivo `index.html`:**
     Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador de preferência.
@@ -43,4 +43,4 @@ Pronto! Agora você já pode usar a calculadora.
  
 ---
  
-Feito com ❤️ por [Seu Nome](https://SEU-LINK-PARA-GITHUB-OU-LINKEDIN).
+Feito com ❤️ por Rikelme Lopes https://github.com/RikelmePalace.
