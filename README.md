@@ -1,7 +1,8 @@
 # Calculadora de Gorjetas 💸
  
 [![Readme Card](https://img.shields.io/badge/Projeto-Calculadora%20de%20Gorjetas-brightgreen)](#)
-[![Readme Card](https://img.shields.io/badge/Status-Finalizado-blue)](#)
+[![Readme Card] <img width="918" height="602" alt="image" src="https://github.com/user-attachments/assets/4e21edc6-2391-4ad3-877b-a8b06b579e1f" />
+
  
 Uma calculadora de gorjetas simples, elegante e funcional para calcular rapidamente o valor total de uma conta, incluindo uma gorjeta padrão de 10%.
  
