@@ -6,7 +6,6 @@
  
 Uma calculadora de gorjetas simples, elegante e funcional para calcular rapidamente o valor total de uma conta, incluindo uma gorjeta padrão de 10%.
  
-![Preview da Calculadora de Gorjetas](https://i.imgur.com/URL-DA-SUA-IMAGEM.png)
 
  
 ## 📝 Descrição
